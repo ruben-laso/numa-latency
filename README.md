@@ -16,7 +16,7 @@ To install and run the NUMA Latency Benchmark, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/numa-latency.git
+git clone https://github.com/ruben-laso/numa-latency.git
 ```
 
 2. Build the benchmark program:
